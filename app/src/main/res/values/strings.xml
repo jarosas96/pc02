@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">pc02</string>
+    <string name="lblLogin">Iniciar sesión</string>
+    <string name="lblRegistrar">CREAR UNA CUENTA</string>
+
+    <string name="txtCorreo">DNI</string>
+    <string name="txtPassword">Contraseña</string>
+    <string name="txtIngresarDni">Ingrese su DNI</string>
+    <string name="txtIngresarNombre">Ingrese su nombre completo</string>
+    <string name="txtIngresarClave">Ingrese su clave</string>
+    <string name="txtIngresarClaveRep">Ingrese nuevamente su clave</string>
+    <string name="txtTittle">CREAR UNA CUENTA</string>
+
+    <string name="btnIngresar">INGRESAR</string>
+    <string name="btnCrear">CREA TU CUENTA</string>
+    <string name="btnRegistrar">REGISTRAR CUENTA</string>
+</resources>
